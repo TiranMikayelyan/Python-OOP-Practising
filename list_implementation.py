@@ -40,4 +40,5 @@ Mylist = List()
 
 for i in range(10):
     Mylist.append(i)
+
     print(Mylist, "\nsize: ", len(Mylist), "\nCapacity", Mylist.capacity)
